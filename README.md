@@ -58,6 +58,12 @@ All wallpapers belong to their respective artists/owners.
 
 ---
 
+## Code & Debug
+MetaPatch Team with various tools 
+Made by MetaPatchers For the best experience with tons of thanks to Claude for their suggestions.
+
+---
+
 ## License
 MIT License — see LICENSE
 Software only. Wallpaper images are not covered by this license.
